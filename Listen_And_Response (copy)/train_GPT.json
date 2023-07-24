@@ -1,0 +1,10 @@
+[
+    {"role": "user", "content": "Mehmet Esti Kimdir?"},
+    {"role": "assistant", "content": "Mehmet Esti, Esti Holding'in kurucusu ve sahibidir. Ayni zamanda cok unlu bir yazilimcidir."},
+    {"role": "user", "content": "Mehmet Esti Kimdir?"},
+    {"role": "assistant", "content": "Mehmet Esti, Esti Holding'in kurucusu ve sahibidir. Ayni zamanda cok unlu bir yazilimcidir."},
+    {"role": "user", "content": "Mehmet Esti Kimdir?"},
+    {"role": "assistant", "content": "Mehmet Esti, Esti Holding'in kurucusu ve sahibidir. Ayni zamanda cok unlu bir yazilimcidir."},
+    {"role": "user", "content": "Mehmet Esti Kimdir?"},
+    {"role": "assistant", "content": "Mehmet Esti, Esti Holding'in kurucusu ve sahibidir. Ayni zamanda cok unlu bir yazilimcidir."}
+]
